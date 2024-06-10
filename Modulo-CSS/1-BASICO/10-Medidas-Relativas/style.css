@@ -1,0 +1,35 @@
+html{
+    background-color: gainsboro;
+    font-size: 32px;
+}
+
+/* 1 em = 16px */
+
+body{
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 1rem;
+}
+
+.pai{
+    background-color: #ea80fc;
+    width: 50%;
+    font-size: 2rem;
+}
+
+.filha{
+    background-color: #1de9b6;
+    width: 50%;
+    font-size: 1rem;
+}
+
+.vw{
+    background-color: red;
+    color: white;
+    width: 50vw;
+}
+
+.vh{
+    background-color: yellow;
+    width: 50vh;
+}

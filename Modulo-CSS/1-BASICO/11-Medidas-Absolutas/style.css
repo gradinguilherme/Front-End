@@ -1,0 +1,14 @@
+html{
+    background-color: gainsboro;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.pixel{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    font-size: 32px;
+}

@@ -1,0 +1,17 @@
+.com-border-box{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+
+    box-sizing: border-box;
+}
+
+.sem-border-box{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 10px solid green;
+}

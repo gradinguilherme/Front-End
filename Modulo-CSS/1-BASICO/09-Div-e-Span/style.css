@@ -1,0 +1,29 @@
+.produto{
+    background-color: gainsboro;
+    border: solid 3px gray;
+    margin: 30px;
+    width: 240px;
+}
+
+.preco{
+    color: green;
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+}
+
+.descricao{
+    text-align: center;
+    margin: 0;
+    padding: 8px 0px;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+}
+
+span{
+    font-size: 24px;
+    color: red;
+}

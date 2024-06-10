@@ -1,0 +1,16 @@
+.descricao{
+    background-color: orange;
+}
+
+.preco{
+    background-color: blueviolet;
+    padding: 12px 4px;
+    border: solid 6px black;
+    color: white;
+    font-size: 24px;
+}
+
+.promocao{
+    padding: 10px;
+    border: solid 6px green;
+}
