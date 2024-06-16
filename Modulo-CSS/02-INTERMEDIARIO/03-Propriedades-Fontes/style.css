@@ -1,0 +1,14 @@
+/* https://fonts.google.com */
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-size: 24px;
+
+    font-weight: 100; /* 100->400 = Normal; 500->700 = Bold; 800->900 = Extra Bold */
+}
+

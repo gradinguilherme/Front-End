@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Milky';
+    src: url('./fonts/MilkyNice.otf'), url('./fonts/MilkyNice.ttf');
+}
+
+/* https://www.dafont.com/pt/ */
+
+p{
+    font-family: 'Milky', sans-serif;
+    font-weight: 100;
+    font-size: 24px;
+}
