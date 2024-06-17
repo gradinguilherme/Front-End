@@ -1,0 +1,36 @@
+p{
+    color: coral;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.bg{
+    background-color: lightgreen;
+    background-image: url('./images/dog.jpg');
+}
+
+.bg-image{
+    width: 640px;
+    height: 427px;
+}
+
+.bg-repeat{
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.bg-size-cover{
+    background-size: cover;
+    height: 500px;
+}
+
+.bg-fixed{
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.bg-position{
+    background-position: right top;
+    background-repeat: no-repeat;
+    height: 500px;
+}
